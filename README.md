@@ -3,7 +3,7 @@
 
 * Assignment Details:
 ```angular2html
-
+https://github.com/syedjameel/CI-1/blob/07d1115a5fc7bb3a24d00dddafed459fa82914f4/Assigment1.pdf
 ```
 
 ## Description:
